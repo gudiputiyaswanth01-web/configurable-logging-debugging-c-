@@ -1,0 +1,4 @@
+*.o
+mypreprocessor
+mypreprocessor.exe
+*.i
